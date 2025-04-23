@@ -1,2 +1,2 @@
 # sentiment-analysis
-Labeling airline review data according to sentiment
+Labeled airline review data according to sentiment using the transformers library by Hugging Face. 
